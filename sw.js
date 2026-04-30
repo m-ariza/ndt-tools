@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gammacalc-v1';
+const CACHE_NAME = 'gammacalc-v2';
 const ASSETS_TO_CACHE =[
   './',
   './index.html',
